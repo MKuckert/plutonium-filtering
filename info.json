@@ -1,0 +1,14 @@
+{
+  "name": "plutonium-filtering",
+  "version": "0.0.1",
+  "title": "Cerys Plutonium Filtering",
+  "author": "mkuckert",
+  "homepage": "https://github.com/MKuckert/plutonium-filtering",
+  "description": "Adds a new recipe creating Plutonium-238 and preserving quality from ingredients on fulgoras moon Cerys",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "Cerys-Moon-of-Fulgora >= 4.20.2"
+  ],
+  "quality_required": true
+}
