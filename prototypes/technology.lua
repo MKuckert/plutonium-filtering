@@ -14,20 +14,14 @@ data:extend({
     },
     icons = {
       {
-        icon = "__Cerys-Moon-of-Fulgora__/graphics/technology/nuclear-scrap.png",
-        icon_size = 256,
-        scale = 0.7,
-        shift = {32, -16}
-      },
-      {
         icon = "__Cerys-Moon-of-Fulgora__/graphics/icons/nuclear/depleted-mixed-oxide-fuel-cell.png",
         icon_size = 64,
-        shift = {-32, -48}
+        shift = {-48, -48}
       },
       {
         icon = "__Cerys-Moon-of-Fulgora__/graphics/icons/nuclear/nuclear-waste-solution-nitric.png",
         icon_size = 64,
-        shift = {48, -48}
+        shift = {48, -32}
       },
       {
         icon = "__Cerys-Moon-of-Fulgora__/graphics/icons/nuclear/plutonium-238.png",
@@ -36,7 +30,7 @@ data:extend({
       },
       {
         icon = "__plutonium-filtering__/graphics/icons/reprocessing.png",
-        icon_size = 200
+        icon_size = 64
       },
     },
     icon_size = 256,

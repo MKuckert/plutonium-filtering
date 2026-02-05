@@ -38,14 +38,7 @@ data:extend({
         icon_size = 64,
         draw_background = true,
         scale = 0.5,
-        shift = {16, -16}
-      },
-      {
-        icon = "__Cerys-Moon-of-Fulgora__/graphics/icons/nuclear/nuclear-scrap.png",
-        icon_size = 64,
-        draw_background = true,
-        scale = 0.4,
-        shift = {-12, 8}
+        shift = {16, -12}
       },
       {
         icon = "__Cerys-Moon-of-Fulgora__/graphics/icons/nuclear/plutonium-238.png",
@@ -56,9 +49,10 @@ data:extend({
       },
       {
         icon = "__plutonium-filtering__/graphics/icons/reprocessing.png",
-        icon_size = 200,
+        icon_size = 64,
         draw_background = true,
-        scale = 0.2
+        scale = 0.5,
+        shift = {0, 0}
       },
     },
     icon_size = 64,
